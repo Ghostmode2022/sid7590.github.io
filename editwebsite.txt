@@ -1,0 +1,5 @@
+For different posts we need to create different post.html file
+For showing them in the home page we need to edit the index.html file
+For About Us we need to edit the about.html
+For Contact Me we have contact.html and we need to edit that
+
